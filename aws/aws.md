@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # AWSに関する独学
 
 ---
@@ -17,3 +13,7 @@ marp: true
 - 持続可能性の柱
 
 ---
+
+## AWS Lambda
+
+[AWS Lambda 開始方法](https://aws.amazon.com/jp/lambda/getting-started/)
